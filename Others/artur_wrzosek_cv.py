@@ -1,6 +1,6 @@
 """
     Hello my fellow!
-    This is CV of me - for better reading just run this script ;)
+    This is a CV of me - for better reading just run this script ;)
     Hope seeing soon!
 """
 ARTUR_WRZOSEK_DATA = {
@@ -10,6 +10,7 @@ ARTUR_WRZOSEK_DATA = {
                 "name": "Artur Wrzosek",
                 "field": "Backend Development",
                 "link": "https://www.linkedin.com/in/arturwrzosek/",
+                "github": "https://github.com/artur-wrzosek",
                 "age": 37,
                 "email": "wrzosek.artur@gmail.com",
                 "mobile":"+48 666 692 293",
